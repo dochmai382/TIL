@@ -1,7 +1,7 @@
 ---
 name: TIL
 about: Describe this issue template's purpose here.
-title: ''
+title: TIL - YYYY-MM-DD
 labels: ''
 assignees: ''
 
