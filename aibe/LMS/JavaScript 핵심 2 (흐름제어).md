@@ -1,4 +1,6 @@
-![Screenshot 2025-01-27 at 9.44.14 AM.png](../../images/Screenshot%202025-01-27%20at%209.44.14%20AM.png)
+<!-- ![Screenshot 2025-01-27 at 9.44.14 AM.png](../../images/Screenshot%202025-01-27%20at%209.44.14%20AM.png) -->
+
+<img src="../../images/Screenshot%202025-01-27%20at%209.44.14%20AM.png" width="500">
 
 **① if-else 조건은 서로 중첩될 수 있다.**
 

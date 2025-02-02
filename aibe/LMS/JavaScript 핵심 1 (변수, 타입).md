@@ -1,4 +1,6 @@
-![Screenshot 2025-01-27 at 9.23.51 AM.png](../../images/Screenshot%202025-01-27%20at%209.23.51%20AM.png)
+<!-- ![Screenshot 2025-01-27 at 9.23.51 AM.png](../../images/Screenshot%202025-01-27%20at%209.23.51%20AM.png) -->
+
+<img src="../../images/Screenshot%202025-01-27%20at%209.23.51%20AM.png" width="500">
 
 **① JavaScript는 클라이언트와 서버 모두에서 실행 가능**
 
@@ -24,7 +26,9 @@
 
 <br>
 
-![Screenshot 2025-01-27 at 9.25.57 AM.png](../../images/Screenshot%202025-01-27%20at%209.25.57%20AM.png)
+<!-- ![Screenshot 2025-01-27 at 9.25.57 AM.png](../../images/Screenshot%202025-01-27%20at%209.25.57%20AM.png) -->
+
+<img src="../../images/Screenshot%202025-01-27%20at%209.25.57%20AM.png" width="500">
 
 **② let과 const는 블록 스코프를 가진다**
 
