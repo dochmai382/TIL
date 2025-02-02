@@ -4,7 +4,7 @@
 
 ##### static(기본값):
 
-- 요소를 **문서 흐름(normal flow)**에 따라 배치.
+- 요소를 **문서 흐름(normal flow)** 에 따라 배치.
 - `top`, `left` 등 위치 속성이 적용되지 않음.
   > - 명시적으로 `position: static`을 쓰는 경우는 다른 위치 속성을 초기화할 때
 
@@ -116,4 +116,4 @@
 
 ---
 
-> [Position - absolute vs. fixed](/git_til/aibe/css/CSS%20-%20Layout%20-%20Position%20-%20absolute%20vs.%20fixed.md)
+> [Position - absolute vs. fixed](./CSS%20-%20Layout%20-%20Position%20-%20absolute%20vs.%20fixed.md)

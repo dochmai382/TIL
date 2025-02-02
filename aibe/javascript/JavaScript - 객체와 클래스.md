@@ -27,7 +27,7 @@ const user = {
 user.greet(); // "안녕하세요, 김코딩님!"
 ```
 
-> [!note] >[함수 vs. 메서드](/git_til/aibe/javascript/함수%20vs.%20메서드.md)
+> [!note] > [함수 vs. 메서드](./함수%20vs.%20메서드.md)
 
 ---
 

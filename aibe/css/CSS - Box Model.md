@@ -82,6 +82,6 @@ CSS 박스모델은 HTML 요소를 렌더링할 때의 구조와 여백, 경계 
 > 위와 같이 설정하지 않으면 내가 디자인한 것과 결과가 달라짐
 > 그렇기 때문에 `*`로 전체 지정
 
-> [마진 병합 현상 (Margin Collapsing)](</git_til/aibe/css/마진%20병합%20현상%20(Margin%20Collapsing).md>)
+> [마진 병합 현상 (Margin Collapsing)](<./마진%20병합%20현상%20(Margin%20Collapsing).md>)
 
-> [CSS - box-sizing](/git_til/aibe/css/CSS%20-%20box-sizing.md)
+> [CSS - box-sizing](./CSS%20-%20box-sizing.md)

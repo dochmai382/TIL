@@ -165,13 +165,13 @@ p {
 
 # 결합자
 
-> [CSS - 결합자 (Selectors)](</git_til/aibe/css/CSS%20-%20결합자%20(Selectors).md>)
+> [CSS - 결합자 (Selectors)](<./CSS%20-%20결합자%20(Selectors).md>)
 
 ---
 
 # **CSS 우선순위 (Specificity)**
 
-> [CSS - 우선순위, 명시도](/git_til/aibe/css/CSS%20-%20우선순위,%20명시도.md)
+> [CSS - 우선순위, 명시도](./CSS%20-%20우선순위,%20명시도.md)
 
 - **ID** 선택자가 가장 높은 우선순위를 가짐 (`#id`).
 - **클래스** 선택자 다음 (`.class`).

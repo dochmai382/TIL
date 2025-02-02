@@ -110,7 +110,7 @@ function createCounter() {
 ### **7. 스코프 (Scope)**
 
 - **전역 스코프**: 어디서든 접근 가능 → **남용 시 위험** (변수 충돌).
-- ~~**함수 스코프**: `var`로 선언된 변수는 함수 내에서만 접근.~~ => [JavaScript - var에 대해서](/git_til/aibe/javascript/JavaScript%20-%20var에%20대해서.md)
+- ~~**함수 스코프**: `var`로 선언된 변수는 함수 내에서만 접근.~~ => [JavaScript - var에 대해서](./JavaScript%20-%20var에%20대해서.md)
 - **블록 스코프**: `let`/`const` → `{}` 단위로 접근 제한.
 - **백엔드 팁**: 모듈 단위 스코프 활용 → `module.exports`로 필요한 것만 노출.
 

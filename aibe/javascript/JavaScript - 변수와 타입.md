@@ -26,9 +26,9 @@
    const PI = 3.14; // 상수
    ```
 
-> [JavaScript 명명 규칙](/git_til/conventions/JavaScript%20명명%20규칙.md)
+> [JavaScript 명명 규칙](../../conventions/JavaScript%20명명%20규칙.md)
 
-> [JavaScript - var에 대해서](/git_til/aibe/javascript/JavaScript%20-%20var에%20대해서.md)
+> [JavaScript - var에 대해서](./JavaScript%20-%20var에%20대해서.md)
 
 2. **타입**:
    - **원시 타입**: `String`, `Number`, `Boolean`, `null`, `undefined`, `Symbol`, `BigInt`
@@ -48,7 +48,7 @@
 > - 문자열의 특징 :
 >   - 0 ~ n개로 길이가 있음
 
-> [!note] >[undefined vs. null](/git_til/aibe/javascript/undefined%20vs.%20null.md)
+> [!note] >[undefined vs. null](./undefined%20vs.%20null.md)
 
 3. **연산자**:
    - 산술: `+`, `-`, `*`, `/`, `%`
@@ -206,7 +206,7 @@ let isActive = false;
 isActive = !isActive; // true로 변경
 ```
 
-> [!note] >[[단축 평가 (Short-circuit Evaluation)]]
+> [!note] > [단축 평가 (Short-circuit Evaluation)](<./단축%20평가%20(Short-circuit%20Evaluation).md>)
 
 ---
 
