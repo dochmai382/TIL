@@ -48,6 +48,7 @@
 - [자료구조](./javascript/JavaScirpt%20-%20자료구조.md)
 - [함수 기본 개념과 정의](./javascript/JavaScript%20-%20함수의%20기본%20개념과%20정의.md)
 - [함수의 활용](./javascript/JavaScript%20-%20함수의%20활용.md)
+- [예외처리 try-catch](./javascript/JavaScript%20-%20예외처리%20try...catch.md)
 - [Web - DOM](./javascript/JavaScript%20-%20웹%20DOM.md)
 - [Web - Event](./javascript/JavaScript%20-%20웹%20Event.md)
 
